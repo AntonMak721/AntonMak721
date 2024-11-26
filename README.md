@@ -8,7 +8,7 @@
 - 📄 Know about my experiences [https://career.habr.com/antonmak211](https://career.habr.com/antonmak211)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left" style="margin:10px;">
+<p align="left">
   <a href="https://teleg.run/AntonMakDev" rel="nofollow">  <img align="left" alt="https://github.com/antonmak721" width="35px" src="https://camo.githubusercontent.com/69b0b84c8878957fe5a8cc7dd9850e8c2c847e096eca975084bf060ea6c9fb1b/68747470733a2f2f696d672e69636f6e73382e636f6d2f637574652d636c69706172742f36342f3030303030302f74656c656772616d2d6170702e706e67" data-canonical-src="https://img.icons8.com/cute-clipart/64/000000/telegram-app.png" style="max-width: 100%;"></a>
   <a href="https://vk.com/tony3841" rel="nofollow"> <img align="left" alt="https://github.com/antonmak721" width="35px" src="https://camo.githubusercontent.com/1910c1bd283c81c2ffeea0cb79b8e2d186ba14ce44df48dfa90d332a279290cb/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f766b2d636972636c65642e706e67" data-canonical-src="https://img.icons8.com/color/48/000000/vk-circled.png" style="max-width: 100%;"> </a>
 </p>

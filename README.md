@@ -7,8 +7,6 @@
 
 - 📄 Know about my experiences [https://career.habr.com/antonmak211](https://career.habr.com/antonmak211)
 
-//<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=antonmak721&show_icons=true&title_color=e4e4e4&text_color=e4e4e4&bg_color=3d3d3d&hide_border=true&locale=en&layout=compact" alt="antonmak721" /></p>
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">

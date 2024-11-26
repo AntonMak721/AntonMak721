@@ -29,4 +29,4 @@
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=antonmak721&show_icons=true&title_color=dbdbdb&text_color=adadad&bg_color=a3a3a3&hide_border=true&locale=en&layout=compact" alt="antonmak721" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=antonmak721&show_icons=true&title_color=dbdbdb&text_color=4d4d4d&bg_color=a3a3a3&hide_border=true&locale=en&layout=compact" alt="antonmak721" /></p>

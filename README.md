@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anton Makatakhin</h1>
-<h3 align="center">A frontend developer from Russia. My path in IT began with courses from the Webcademy.ru school "profession layout designer". Then I studied React on the courses from UDemy and independently studied Angular and Typescript.</h3>
+<h3 align="center">I am a frontend developer from Russia. My journey in IT began three years ago when I took a course called "Layout Designer" at Webcademy.ru. After that, I continued to expand my skills by studying React through several specialized courses on Udemy. Additionally, I have been independently learning Angular and TypeScript, working on various personal projects to hone these skills.</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/AntonMak721](https://github.com/AntonMak721)
 
